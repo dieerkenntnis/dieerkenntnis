@@ -1,0 +1,1 @@
+Hey! I'm dieerkenntnis. This GitHub page is still quite empty, but I'm working on gradually getting involved in one or two open-source projects. If you want to learn more about me, feel free to visit my [website](https://konstantin.rakutt.eu).
